@@ -1,0 +1,306 @@
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\AnketaApp.dll.config
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\AnketaApp.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\AnketaApp.pdb
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Antlr3.Runtime.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\EntityFramework.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\EntityFramework.SqlServer.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Newtonsoft.Json.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Owin.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.Helpers.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.Mvc.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.Optimization.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.Razor.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.WebPages.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.WebPages.Razor.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\WebGrease.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.Helpers.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.Mvc.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.Optimization.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.Razor.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.WebPages.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\System.Web.WebPages.Razor.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Antlr3.Runtime.pdb
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Newtonsoft.Json.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\EntityFramework.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\EntityFramework.SqlServer.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.csprojResolveAssemblyReference.cache
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.dll
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.pdb
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.Migrations.InitialCreate.resources
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.csproj.GenerateResource.Cache
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.Migrations.AnketaPitanjeOdg.resources
+c:\users\almir\documents\visual studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.Migrations.Novetabele.resources
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\AnketaApp.dll.config
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\AnketaApp.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\AnketaApp.pdb
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Antlr3.Runtime.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\EntityFramework.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Newtonsoft.Json.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Owin.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.Helpers.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.Mvc.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.Optimization.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.Razor.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\WebGrease.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.Helpers.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.Mvc.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.Optimization.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.Razor.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Antlr3.Runtime.pdb
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Newtonsoft.Json.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\EntityFramework.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.csprojResolveAssemblyReference.cache
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.Migrations.InitialCreate.resources
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.Migrations.AnketaPitanjeOdg.resources
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.Migrations.Novetabele.resources
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.csproj.GenerateResource.Cache
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.dll
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.pdb
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.Migrations.PitanjeChanges.resources
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\AnketaApp.dll.config
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\AnketaApp.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\AnketaApp.pdb
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Antlr3.Runtime.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\EntityFramework.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\EntityFramework.SqlServer.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Google.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Newtonsoft.Json.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Owin.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.Helpers.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.Mvc.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.Optimization.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.Razor.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.Deployment.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.Razor.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\WebGrease.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.Helpers.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.Mvc.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.Optimization.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.Razor.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.Deployment.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\System.Web.WebPages.Razor.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Antlr3.Runtime.pdb
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Newtonsoft.Json.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\EntityFramework.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\EntityFramework.SqlServer.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Google.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\POSAO\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.csprojResolveAssemblyReference.cache
+C:\POSAO\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.Migrations.InitialCreate.resources
+C:\POSAO\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.Migrations.AnketaPitanjeOdg.resources
+C:\POSAO\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.Migrations.Novetabele.resources
+C:\POSAO\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.Migrations.PitanjeChanges.resources
+C:\POSAO\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.csproj.GenerateResource.Cache
+C:\POSAO\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.dll
+C:\POSAO\AnketaApp - glavna\AnketaApp\obj\Debug\AnketaApp.pdb
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.Migrations.PitanjeChanges.resources
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.Migrations.NewColumns.resources
+C:\Users\ALMIR\Documents\Visual Studio 2013\Projects\AnketaApp\AnketaApp\obj\Debug\AnketaApp.Migrations.IzmjeneTabelePitanje.resources
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\AnketaApp.dll.config
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\AnketaApp.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\AnketaApp.pdb
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Antlr3.Runtime.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\EntityFramework.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\EntityFramework.SqlServer.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.Google.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Newtonsoft.Json.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Owin.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.Helpers.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.Mvc.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.Optimization.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.Razor.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.WebPages.Deployment.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.WebPages.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.WebPages.Razor.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\WebGrease.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.Helpers.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.Mvc.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.Optimization.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.Razor.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.WebPages.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.WebPages.Deployment.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\System.Web.WebPages.Razor.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Antlr3.Runtime.pdb
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Newtonsoft.Json.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\EntityFramework.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\EntityFramework.SqlServer.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.Google.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.csprojResolveAssemblyReference.cache
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.Migrations.InitialCreate.resources
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.Migrations.AnketaPitanjeOdg.resources
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.Migrations.Novetabele.resources
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.Migrations.PitanjeChanges.resources
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.Migrations.NewColumns.resources
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.Migrations.IzmjeneTabelePitanje.resources
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.csproj.GenerateResource.Cache
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.dll
+C:\POSAO\AnketaApp 02042015\AnketaApp\obj\Debug\AnketaApp.pdb
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\AnketaApp.dll.config
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\AnketaApp.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\AnketaApp.pdb
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Antlr3.Runtime.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\EntityFramework.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Newtonsoft.Json.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Owin.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.Helpers.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.Mvc.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.Optimization.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.Razor.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.WebPages.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\WebGrease.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.Helpers.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.Mvc.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.Optimization.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.Razor.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.WebPages.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Antlr3.Runtime.pdb
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Newtonsoft.Json.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\EntityFramework.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.csprojResolveAssemblyReference.cache
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.Migrations.InitialCreate.resources
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.Migrations.AnketaPitanjeOdg.resources
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.Migrations.Novetabele.resources
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.Migrations.PitanjeChanges.resources
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.Migrations.NewColumns.resources
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.Migrations.IzmjeneTabelePitanje.resources
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.csproj.GenerateResource.Cache
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.dll
+C:\Users\ALMIR\Documents\POSAO\AnketaApp 03042015\AnketaApp\obj\Debug\AnketaApp.pdb

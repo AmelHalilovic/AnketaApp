@@ -1,0 +1,75 @@
+﻿@model AnketaApp.Models.Anketa
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Nova</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Anketa</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <!--            @Html.LabelFor(model => model.ankt_naslov, htmlAttributes: new { @class = "control-label col-md-2" })       -->
+            <div class="control-label col-md-2"><b>Naslov ankete</b></div>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ankt_naslov, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ankt_naslov, "", new { @class = "text-danger" })
+            </div>
+        </div>
+<!--
+        <div class="form-group">
+            <!--        @Html.LabelFor(model => model.ankt_brjpit, htmlAttributes: new { @class = "control-label col-md-2" })   
+            <div class="control-label col-md-2"><b>Broj pitanja</b></div>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ankt_brjpit, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.ankt_brjpit, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    -->
+        <!--
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ankt_brjotvaranja, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ankt_brjotvaranja, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.ankt_brjotvaranja, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ankt_datumotv, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ankt_datumotv, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.ankt_datumotv, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ankt_datposljotv, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ankt_datposljotv, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.ankt_datposljotv, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+        -->
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Dalje" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Sve ankete", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

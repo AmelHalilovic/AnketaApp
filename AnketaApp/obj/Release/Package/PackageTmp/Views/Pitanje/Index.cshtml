@@ -1,0 +1,50 @@
+﻿@model IEnumerable<AnketaApp.Models.Pitanje>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-header">
+    <h2>Rezultati ankete</h2>
+</div>
+
+<body class="container">
+    <ol>
+        @foreach (var item in Model)
+        {
+
+
+            <div style="width:50%; padding-left:20px;">
+                <h2><li><b> @Html.DisplayFor(modelItem => item.pit_sadrz)</b> <small>Broj otvaranja: @Html.DisplayFor(modelItem => item.brojotvaranja)</small> </li></h2>
+                
+            </div>
+
+    <ul class="list-group" style="width: 50%;">
+        <li class="list-group-item">
+            <span class="badge">@Html.DisplayFor(modelItem => item.odg1_glas)</span>
+            @Html.DisplayFor(modelItem => item.odg1) 
+        </li>
+    </ul>
+    <ul class="list-group" style="width: 50%;">
+        <li class="list-group-item">
+            <span class="badge">@Html.DisplayFor(modelItem => item.odg2_glas)</span>
+            @Html.DisplayFor(modelItem => item.odg2)
+        </li>
+    </ul>
+    <ul class="list-group" style="width: 50%;">
+        <li class="list-group-item">
+            <span class="badge">@Html.DisplayFor(modelItem => item.odg3_glas)</span>
+            @Html.DisplayFor(modelItem => item.odg3)
+        </li>
+    </ul>
+    <ul class="list-group" style="width: 50%;">
+        <li class="list-group-item">
+            <span class="badge">@Html.DisplayFor(modelItem => item.odg4_glas)</span>
+            @Html.DisplayFor(modelItem => item.odg4)
+        </li>
+    </ul>
+
+        }
+    </ol>
+</body>

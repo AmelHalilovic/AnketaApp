@@ -1,0 +1,107 @@
+﻿@model AnketaApp.Models.Pitanje
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pitanje</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.pit_sadrz)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pit_sadrz)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.pit_anktbrj)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pit_anktbrj)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.odg1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.odg1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.odg1_glas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.odg1_glas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.odg2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.odg2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.odg2_glas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.odg2_glas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.odg3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.odg3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.odg3_glas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.odg3_glas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.odg4)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.odg4)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.odg4_glas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.odg4_glas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.pit_datumpost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pit_datumpost)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.pit_brj }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

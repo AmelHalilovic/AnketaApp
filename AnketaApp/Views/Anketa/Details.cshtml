@@ -1,0 +1,58 @@
+﻿@model AnketaApp.Models.Anketa
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Anketa</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_naslov)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_naslov)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_brjpit)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_brjpit)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_brjotvaranja)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_brjotvaranja)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_datumotv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_datumotv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_datposljotv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_datposljotv)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ankt_brj }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

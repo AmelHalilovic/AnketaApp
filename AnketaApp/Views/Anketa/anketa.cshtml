@@ -1,0 +1,58 @@
+﻿@model IEnumerable<AnketaApp.Models.Pitanje>
+
+@{
+    ViewBag.Title = "anketa";
+}
+
+<div class="page-header">
+    <h2>Anketa</h2>
+    <h3><small>Molimo Vas korektno popunite anketu.</small></h3>
+</div>
+
+
+
+<body class="container" style="margin-left: 10%;">
+    <ol>
+                @foreach (var item in Model)
+                {
+
+
+                    <div class="well well-sm" style="width:50%; padding-left:20px;"><li><b>@Html.DisplayFor(modelItem => item.pit_sadrz)</b></li></div>
+    
+@Html.RadioButton("gender", "Male", true)
+                    <br />
+@Html.RadioButton("gender", "Female", false)
+        <div class="radio">
+            <label><input type="radio" name="odg">@Html.DisplayFor(modelItem => item.odg1)</label>
+        </div>
+        <div class="radio">
+            <label><input type="radio" name="odg">@Html.DisplayFor(modelItem => item.odg2)</label>
+        </div>
+        <div class="radio">
+            <label><input type="radio" name="odg">@Html.DisplayFor(modelItem => item.odg3)</label>
+        </div>
+        <div class="radio">
+            <label><input type="radio" name="odg">@Html.DisplayFor(modelItem => item.odg4)</label>
+        </div>
+        <!--
+                 @Html.DisplayFor(modelItem => item.odg1)
+
+
+                 @Html.DisplayFor(modelItem => item.odg2)
+
+
+                 @Html.DisplayFor(modelItem => item.odg3)
+
+
+
+                 @Html.DisplayFor(modelItem => item.odg4)
+
+
+                 @Html.DisplayFor(modelItem => item.pit_datumpost)
+         -->
+
+        <br />
+
+        }
+</ol>
+</body>

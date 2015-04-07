@@ -1,0 +1,64 @@
+﻿@model AnketaApp.Models.Anketa
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Anketa</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_naslov)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_naslov)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_brjpit)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_brjpit)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_brjotvaranja)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_brjotvaranja)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_datumotv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_datumotv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ankt_datposljotv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ankt_datposljotv)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

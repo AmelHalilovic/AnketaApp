@@ -1,0 +1,53 @@
+﻿@model AnketaApp.Models.Pitanje
+
+@{
+    ViewBag.Title = "pitanje";
+}
+
+<div class="page-header">
+    <h2>Anketa</h2>
+    <h3><small>Molimo Vas korektno popunite anketu.</small></h3>
+</div>
+
+@using (Html.BeginForm("pitanje","Anketa"))
+{ 
+    @Html.AntiForgeryToken()
+
+    <div class="container" style="padding-left:10%; padding-right:10%;">
+        <div class="progress" style=" width: 70%;">
+            <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width:@ViewBag.procent">
+                <span class="sr-only">60% Complete</span>
+            </div>
+        </div>
+        <div class="well well-sm" style="width:70%; padding-left:20px;"><h2><b>@ViewBag.rednibroj. @Html.DisplayFor(model => model.pit_sadrz)</b></h2>
+    </div>
+    <div style="margin-left: 5%;">
+       
+        <!--
+        <input type="number" name="brojPitanja" value="@ViewBag.ident" hidden />
+        @Html.Hidden("brojPita", new { @ViewBag.ident })-->
+
+        <div class="radio">
+            <input type="radio" name="broj" value="1"/><h4>@Html.DisplayFor(model => model.odg1) </h4>
+        </div>
+        <div class="radio">
+            <input type="radio" name="broj" value="2" /><h4>@Html.DisplayFor(model => model.odg2) </h4>
+        </div>
+        <div class="radio">
+            <input type="radio" name="broj" value="3" /><h4>@Html.DisplayFor(model => model.odg3) </h4>
+        </div>
+        <div class="radio">
+            <input type="radio" name="broj" value="4" /><h4>@Html.DisplayFor(model => model.odg4) </h4>
+        </div>
+
+        <br />
+        <p style="width:65%;">
+            <button type="submit" class="btn btn-primary" style="float:right;">Dalje</button>
+        </p>
+        <br />
+        <p style="width:45%;">
+            @Html.ActionLink("Prekini anketu.","kraj","Anketa")
+        </p>
+        </div>
+</div>
+}
